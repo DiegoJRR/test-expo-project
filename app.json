@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "test-expo-project",
-    "slug": "test-expo-project",
+    "name": "template-typescript-bottom-tabs-supabase-auth-flow",
+    "slug": "template-typescript-bottom-tabs-supabase-auth-flow",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
